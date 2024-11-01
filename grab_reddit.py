@@ -13,7 +13,7 @@ names = [
     "LowerEastSide", "EastFlatbush", "Bensonhurst", "SheepsheadBay", "DykerHeights",
     "DitmasPark", "Gowanus", "CarrollGardens", "BayRidge", "SunsetPark", "ForestHills", 
     "RegoPark", "JacksonHeights", "CoronaNY", "RockawayBeach", "Woodside", "Ridgewood", 
-    "JamaicaNYC", "Astoria", "Woodhaven", "MiddleVillage", "BrooklynHeights", 'FarRockaway', "EastVillage", ""
+    "JamaicaNYC", "Astoria", "Woodhaven", "MiddleVillage", "BrooklynHeights", 'FarRockaway', "EastVillage"
 ]
 
 # URL of the API
