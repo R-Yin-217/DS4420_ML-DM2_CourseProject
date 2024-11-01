@@ -60,7 +60,7 @@ for n in names:
         print(response.json())  # This will give more info about the error if something goes wrong
 
 # Save to CSV
-csv_file_path = "/Users/mackmorgan/Desktop/reddit_data.csv"
+csv_file_path = "reddit_data.csv"
 df.to_csv(csv_file_path, index=False)
 
 # url = base_url + "DUMBO/new"
