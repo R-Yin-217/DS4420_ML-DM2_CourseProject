@@ -17,6 +17,9 @@ This is the repository for the CS4420 Machine Learning and Data Mining 2 Course 
 
             
     - For Feature Engeering
+        - amenities_raw_data
+            - PDF data for New York
+
         - feature_dataset
             - FURMAN, FURMANE_csv
 
@@ -25,6 +28,13 @@ This is the repository for the CS4420 Machine Learning and Data Mining 2 Course 
             - year_dataset
 
                 This is the dataset made from FURMAN and organized by each year.
+                - year_2023
+
+                    The dataset with Walk Score,Bike Score and Transit Score
+
+            - dataset_joined.csv
+
+                Final version for the feature
 
         - generate_dataset.ipynb
 
