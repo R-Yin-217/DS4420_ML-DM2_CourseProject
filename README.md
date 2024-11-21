@@ -32,9 +32,10 @@ This is the repository for the CS4420 Machine Learning and Data Mining 2 Course 
 
                     The dataset with Walk Score,Bike Score and Transit Score
 
-            - dataset_joined.csv
+            - NYC_data.csv dataset_joined.csv
 
-                Final version for the feature
+                Final and pre-final version for the feature
+
 
         - generate_dataset.ipynb
 
