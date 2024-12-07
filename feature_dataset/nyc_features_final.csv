@@ -1,4 +1,4 @@
-﻿Neighborhood,SentimentScore,WalkScore,BikeScore,TransitScore,Poverty rate,Total Population,Median Age,60 and over,Car-free commute ,Median Income,Asian alone,Black/African-American,Hispanic,White alone,Commute time to work
+﻿Neighborhood,SentimentScore,WalkScore,BikeScore,TransitScore,Poverty rate,Total Population,Median Age,60 and over,Car-free commute,Median Income,Asian alone,Black/African-American,Hispanic,White alone,Commute time to work
 BK 01,0.649213079,95.5,82,85,0.34,142098,31.7,0.1,0.77,49120,0.04,0.04,0.34,0.53,35.3
 BK 02,1.197659711,97.5,89,100,0.25,115106,34.9,0.1,0.82,74770,0.04,0.42,0.19,0.31,35.7
 BK 03,0.740486592,94,79,97,0.36,121054,32.3,0.09,0.73,41480,0.01,0.75,0.19,0.02,44.7
