@@ -36,6 +36,9 @@ This is the repository for the CS4420 Machine Learning and Data Mining 2 Course 
 
                 Final and pre-final version for the feature
 
+            - boston_features_final.csv, nyc_features_final.csv
+
+                These are final dataset.
 
         - generate_dataset.ipynb
 
@@ -46,8 +49,13 @@ This is the repository for the CS4420 Machine Learning and Data Mining 2 Course 
 
         This is the code to do the sentiment analysis for the sentiment_dataset. Here are tools we used in this file.
 
-        1. Libraries
-            - VaderSentiment
-            - TextBlob
-            - AFINN
+- Feature Engineering
+    - Classic_Model.ipynb
+
+        THis is the code to run traditional machine learning code.
+
+    - NN_model.ipynb
+
+        This is the code to run neural network.
+
 

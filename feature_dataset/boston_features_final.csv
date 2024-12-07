@@ -1,4 +1,4 @@
-﻿Neighborhood,SentimentScore,Walkscore,BikeScore,TransitScore,Poverty rate,Total Population,Median Age,60 and over,Car-free commute,Median Income,Asian alone,Black/African-American,Hispanic,White Alone,Commute time to work
+﻿Neighborhood,SentimentScore,WalkScore,BikeScore,TransitScore,Poverty rate,Total Population,Median Age,60 and over,Car-free commute,Median Income,Asian alone,Black/African-American,Hispanic,White alone,Commute time to work
 Allston,1.5165,87,92,66,0.2793,19261,27.5,0.042,0.7065,73975,0.2498,0.0571,0.1343,0.5108,34.8176
 Brighton,0.6635,30,57,59,0.1721,55297,30.8,0.143,0.458,92364,0.1476,0.043,0.121,0.6514,35.9029
 Dorchester,0.7966,78,51,72,0.2222,126909,33.4,0.1627,0.4389,59966,0.0988,0.4396,0.1993,0.2226,38.2966
